@@ -1,4 +1,4 @@
-this is a list with my projects since they don't fit in my pins.
+this is a list with my projects since they don't all fit in my pins.
 
 [pogodata](https://github.com/ccev/pogodata) - a very cool py module you can use to handle all kinds of pogo objects
 
@@ -22,8 +22,8 @@ this is a list with my projects since they don't fit in my pins.
 
 [Discordopole](https://github.com/ccev/Discordopole) - a cool tool that needs more attention. good luck if you want to run this. tip: use develop-develop branch
 
-[stopfinder](https://github.com/ccev/stopfinder) - a very small/shitty script finding possible stuff you can submit to become stops.
+[stopfinder](https://github.com/ccev/stopfinder) - a very small/shitty script searching possible stuff you can submit to become stops
 
-[Taubsi](https://github.com/ccev/Taubsi) - my personal raid organizer for discord. i love it but it's probably not usable for anyone else. no docs or anything. hmu if you're interested
+[Taubsi](https://github.com/ccev/Taubsi) - my personal raid organizer for discord. i love it but it's probably not suited for anyone else. no docs or anything. hmu if you're interested
 
 [passwatcher](https://github.com/ccev/passwatcher) - ex raids - can you imagine?
