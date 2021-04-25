@@ -1,4 +1,4 @@
-this is a list with my projects since they don't all fit in my pins.
+this is a list with my projects since they don't all fit in my pins. they're all made to be used with active pogo scanning/mapping setups but some work standalone.
 
 [pogodata](https://github.com/ccev/pogodata) - a very cool py module you can use to handle all kinds of pogo objects
 
@@ -26,4 +26,4 @@ this is a list with my projects since they don't all fit in my pins.
 
 [Taubsi](https://github.com/ccev/Taubsi) - my personal raid organizer for discord. i love it but it's probably not suited for anyone else. no docs or anything. hmu if you're interested
 
-[passwatcher](https://github.com/ccev/passwatcher) - ex raids - can you imagine?
+[passwatcher](https://github.com/ccev/passwatcher) - haha ex raids 
