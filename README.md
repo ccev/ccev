@@ -6,8 +6,6 @@ My Discord is @Malte#2925 (211562278800195584)
 
 [pogoinfo](https://github.com/ccev/pogoinfo) - an "api" (but ghetto) providing updated info about pogo events, nests, grunts and whatever else there is
 
-[intelwatcher](https://github.com/ccev/intelwatcher) - an automatic intel ~~scraper~~ watcher
-
 [tileserver-middleman](https://github.com/ccev/tileserver-middleman) - a middleman you can use to host swifttileservercache static maps on discord and show surrounding stops/gyms on them
 
 [nestwatcher](https://github.com/M4d40/nestwatcher) - nest analyzer with lots of functionality
