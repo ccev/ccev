@@ -1,6 +1,6 @@
 this is a list with my projects since they don't all fit in my pins. they're all made to be used with active pogo scanning/mapping setups but some work standalone.
 
-My Discord is @Malte#2925 (211562278800195584)
+My Discord is @Malte#4444 (211562278800195584)
 
 [pogodata](https://github.com/ccev/pogodata) - a very cool py module you can use to handle all kinds of pogo objects
 
