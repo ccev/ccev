@@ -24,6 +24,6 @@ My Discord is @Malte#4444 (211562278800195584)
 
 [stopfinder](https://github.com/ccev/stopfinder) - a very small/shitty script searching possible stuff you can submit to become stops
 
-[Taubsi](https://github.com/ccev/Taubsi) - my personal raid organizer for discord. i love it but it's probably not suited for anyone else. no docs or anything. hmu if you're interested
+[Taubsi](https://github.com/ccev/Taubsi) - my personal raid organizer for discord. i love it but it's probably not suited for anyone else.
 
 [passwatcher](https://github.com/ccev/passwatcher) - haha ex raids 
